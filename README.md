@@ -1,3 +1,4 @@
+![Diagrama do Fluxo de Automação de Processo Seletivo no n8n](fluxo_n8n_visual.png)
 # 📌 Automação de Processo Seletivo com n8n
 
 Este projeto é um **fluxo de automação desenvolvido no n8n** para otimizar as etapas de um processo seletivo. O objetivo é reduzir tarefas manuais, padronizar a comunicação com candidatos e dar mais agilidade ao time de recrutamento.
